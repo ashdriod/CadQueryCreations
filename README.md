@@ -1,7 +1,7 @@
 # CadQueryCreations
 
 
-# CadQuery Projects Collection
+# CadQuery Projects Collection [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 Welcome to my CadQuery Projects Collection! This repository is dedicated to sharing a wide range of computer-aided design (CAD) models and projects created with the powerful CadQuery library. From simple shapes to intricate designs, these projects showcase the capabilities of using code to bring CAD ideas to life.
 
