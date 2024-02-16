@@ -23,7 +23,7 @@ I welcome contributions and suggestions! If you have ideas for new projects, imp
 
 ### License
 
-This repository is licensed under [MIT License](LICENSE). Feel free to use, modify, and distribute any of the projects as per the license.
+This repository is licensed under Mozilla Public License Version 2.0. Feel free to use, modify, and distribute any of the projects as per the license.
 
 ## Contact
 
